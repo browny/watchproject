@@ -176,3 +176,7 @@ watchproject
 * **awesome-docker**  
   *A curated list of Docker resources*  
   http://www.m3webware.com/tips-tricks/awesome-docker.html
+
+* **The-Art-Of-Programming-By-July**  
+  *此为《程序员编程艺术：面试和算法心得》的初稿*  
+  https://github.com/julycoding/The-Art-Of-Programming-By-July
