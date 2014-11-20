@@ -1,9 +1,14 @@
 watchproject
 ============
 
+### Java
+
+* Dagger  
+  https://github.com/google/dagger
+
 ### Android
 
-* EventBus
+* EventBus  
   https://github.com/greenrobot/EventBus
 
 
