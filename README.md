@@ -22,6 +22,19 @@ watchproject
   *A damn simple library for building production-ready RESTful web services*  
   https://github.com/dropwizard/dropwizard
 
+* **retrolambda**  
+  *Backport of Java 8's lambda expressions to Java 7, 6 and 5*  
+  https://github.com/orfjackal/retrolambda
+
+* **jsonschema2pojo**  
+  *Generates Java types from JSON Schema*  
+  https://github.com/joelittlejohn/jsonschema2pojo
+
+### C/C++
+* **Catch**
+  *A modern, C++-native, header-only, framework for unit-tests, TDD and BDD*  
+  https://github.com/philsquared/Catch
+
 ### Infrastructure
 * **docker**
   *Docker - the open-source application container engine*  
@@ -36,10 +49,26 @@ watchproject
   *Type-safe REST client for Android and Java by Square, Inc.*  
   https://github.com/square/retrofit
 
+* **robolectric**
+  *Android Unit Testing Framework*  
+  https://github.com/robolectric/robolectric
+
+* **u2020**
+  *A sample Android app which showcases advanced usage of Dagger among other open source libraries*  
+  https://github.com/JakeWharton/u2020
+
 ### Vim
-* **vim-gitgutter**
+* **vim-gitgutter**  
   *A Vim plugin which shows a git diff in the gutter (sign column) and stages/reverts hunks*  
   https://github.com/airblade/vim-gitgutter
+
+* **gitv**  
+  *gitk for Vim*  
+  https://github.com/gregsexton/gitv
+
+* **vim-multiple-cursors**  
+  *True Sublime Text style multiple selections for Vim*  
+  https://github.com/terryma/vim-multiple-cursors
 
 ### Web
 * **Polymer**  
@@ -78,7 +107,11 @@ watchproject
   *q - Run SQL directly on CSV or TSV files*  
   https://github.com/harelba/q
 
-### Document
+* **iodocs**  
+  *Interactive API documentation system*  
+  https://github.com/mashery/iodocs
+
+### Book/Document
 * **github-cheat-sheet**  
   *A list of cool features of Git and GitHub*  
   https://github.com/tiimgreen/github-cheat-sheet
@@ -91,14 +124,30 @@ watchproject
   *A JavaScript book series. @YDKJS on twitter*  
   https://github.com/getify/You-Dont-Know-JS
   
-* **python-guide**
+* **python-guide**  
   *Python best practices guidebook, written for Humans*  
   https://github.com/kennethreitz/python-guide
 
 * **build-web-application-with-golang**  
   *A golang ebook intro how to build a web with golang*
   https://github.com/astaxie/build-web-application-with-golang
-  
+
+* **book-of-modern-frontend-tooling**  
+  *The Front-end Tooling Book*
+  https://github.com/tooling/book-of-modern-frontend-tooling
+
+* **android-training-course-in-chinese**  
+  *Google Android官方培训课程中文版*  
+  https://github.com/kesenhoo/android-training-course-in-chinese
+
+* **markdown-syntax-zhtw**  
+  *Markdown 語法說明中文版*  
+  https://github.com/othree/markdown-syntax-zhtw
+
+* **the-little-mongodb-book-cn**  
+  *The Little MongoDB Book 中文版*  
+  https://github.com/justinyhuang/the-little-mongodb-book-cn
+
 ### Curation
 * **ListOfMinimalistFrameworks**  
   *A list of minimalist frameworks (simple and lightweight)*  
@@ -112,7 +161,7 @@ watchproject
   *A collection of useful .gitignore templates*  
   https://github.com/github/gitignore
   
-* **awesome-sysadmin**
+* **awesome-sysadmin**  
   *A curated list of amazingly awesome open source sysadmin resources*  
   https://github.com/kahun/awesome-sysadmin
   
@@ -120,3 +169,6 @@ watchproject
   *A curated list of awesome Go frameworks, libraries and software*  
   https://github.com/avelino/awesome-go
 
+* **awesome-java**  
+  *A curated list of awesome Java frameworks, libraries and software*  
+  https://github.com/akullpp/awesome-java
