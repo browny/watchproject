@@ -172,3 +172,7 @@ watchproject
 * **awesome-java**  
   *A curated list of awesome Java frameworks, libraries and software*  
   https://github.com/akullpp/awesome-java
+
+* **awesome-docker**  
+  *A curated list of Docker resources*  
+  http://www.m3webware.com/tips-tricks/awesome-docker.html
