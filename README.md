@@ -70,18 +70,6 @@ watchproject
   *True Sublime Text style multiple selections for Vim*  
   https://github.com/terryma/vim-multiple-cursors
 
-### Web
-* **Polymer**  
-  https://www.polymer-project.org/
-
-* **devtools-snippets**  
-  *A collection of helpful snippets to use inside of browser devtools*  
-  https://github.com/bgrins/devtools-snippets
-  
-* **interact.js**  
-  *JavaScript drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers *  
-  https://github.com/taye/interact.js
-  
 ### Utility
 * **z**  
   *z is the new j, yo*  
@@ -114,6 +102,23 @@ watchproject
 * **httpie**  
   *HTTPie is a command line HTTP client, a user-friendly cURL replacement*  
   https://github.com/jakubroztocil/httpie
+
+### Web
+* **Polymer**  
+  https://www.polymer-project.org/
+
+* **devtools-snippets**  
+  *A collection of helpful snippets to use inside of browser devtools*  
+  https://github.com/bgrins/devtools-snippets
+  
+* **interact.js**  
+  *JavaScript drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers *  
+  https://github.com/taye/interact.js
+
+### Visualization
+* **metrics-graphics**  
+  *A library optimized for concise, principled data graphics and layouts*  
+  https://github.com/mozilla/metrics-graphics
 
 ### Book/Document
 * **github-cheat-sheet**  
