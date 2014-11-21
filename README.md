@@ -121,7 +121,7 @@ watchproject
   https://github.com/mozilla/metrics-graphics
 
 * **d3**
-  *A JavaScript visualization library for HTML and SVG*  
+  *A JavaScript visualization library for HTML and SVG*   
   https://github.com/mbostock/d3
 
 ### Book/Document
