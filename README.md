@@ -120,6 +120,10 @@ watchproject
   *A library optimized for concise, principled data graphics and layouts*  
   https://github.com/mozilla/metrics-graphics
 
+* **d3**
+  *A JavaScript visualization library for HTML and SVG*  
+  https://github.com/mbostock/d3
+
 ### Book/Document
 * **github-cheat-sheet**  
   *A list of cool features of Git and GitHub*  
