@@ -78,9 +78,9 @@ watchproject
   *A collection of helpful snippets to use inside of browser devtools*  
   https://github.com/bgrins/devtools-snippets
   
-* **httpie**  
-  *HTTPie is a command line HTTP client, a user-friendly cURL replacement*  
-  https://github.com/jakubroztocil/httpie
+* **interact.js**  
+  *JavaScript drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers *  
+  https://github.com/taye/interact.js
   
 ### Utility
 * **z**  
@@ -110,6 +110,10 @@ watchproject
 * **iodocs**  
   *Interactive API documentation system*  
   https://github.com/mashery/iodocs
+
+* **httpie**  
+  *HTTPie is a command line HTTP client, a user-friendly cURL replacement*  
+  https://github.com/jakubroztocil/httpie
 
 ### Book/Document
 * **github-cheat-sheet**  
