@@ -103,6 +103,10 @@ watchproject
   *HTTPie is a command line HTTP client, a user-friendly cURL replacement*  
   https://github.com/jakubroztocil/httpie
 
+* **rust**  
+  *a safe, concurrent, practical language http://www.rust-lang.org*  
+  https://github.com/rust-lang/rust
+
 ### Web
 * **Polymer**  
   https://www.polymer-project.org/
