@@ -197,3 +197,7 @@ watchproject
 * **The-Art-Of-Programming-By-July**  
   *此为《程序员编程艺术：面试和算法心得》的初稿*  
   https://github.com/julycoding/The-Art-Of-Programming-By-July
+
+* **papers-we-love**  
+  *Papers from the computer science community to read and discuss*  
+  https://github.com/papers-we-love/papers-we-love/  
