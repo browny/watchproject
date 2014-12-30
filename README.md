@@ -201,3 +201,7 @@ watchproject
 * **papers-we-love**  
   *Papers from the computer science community to read and discuss*  
   https://github.com/papers-we-love/papers-we-love/  
+
+* **awesome-courses**  
+  *List of awesome university courses for learning Computer Science!*  
+  https://github.com/prakhar1989/awesome-courses  
