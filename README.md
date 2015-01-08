@@ -2,6 +2,10 @@ watchproject
 ============
 
 ### Java
+* **Awesome Java**  
+  *A curated list of awesome Java frameworks, libraries and software*   
+  https://github.com/akullpp/awesome-java
+
 * **Dagger**  
   *A fast dependency injector for Android and Java*   
   https://github.com/google/dagger
