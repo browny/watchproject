@@ -209,3 +209,7 @@ watchproject
 * **awesome-courses**  
   *List of awesome university courses for learning Computer Science!*  
   https://github.com/prakhar1989/awesome-courses  
+
+* **android-best-practices**  
+  *Do's and Don'ts for Android development, by Futurice developers*  
+  https://github.com/futurice/android-best-practices  
